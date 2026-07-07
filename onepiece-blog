@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>One Piece Blog</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f4f4f4;
+    color:#333;
+}
+
+header{
+    background:linear-gradient(90deg,#ff9800,#ff5722);
+    color:#fff;
+    text-align:center;
+    padding:40px 20px;
+}
+
+header h1{
+    margin:0;
+    font-size:42px;
+}
+
+.container{
+    width:90%;
+    max-width:1000px;
+    margin:30px auto;
+}
+
+.card{
+    background:#fff;
+    margin-bottom:25px;
+    border-radius:12px;
+    padding:20px;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.card h2{
+    color:#ff5722;
+}
+
+footer{
+    background:#222;
+    color:#fff;
+    text-align:center;
+    padding:20px;
+    margin-top:30px;
+}
+</style>
+
+</head>
+<body>
+
+<header>
+<h1>🏴‍☠️ One Piece Blog</h1>
+<p>รวมข้อมูลเกี่ยวกับวันพีซแต่ละภาค</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>📖 เกี่ยวกับ One Piece</h2>
+<p>
+One Piece เป็นมังงะและอนิเมะของ เออิจิโระ โอดะ
+เล่าเรื่องการผจญภัยของ มังกี้ ดี. ลูฟี่
+ที่ต้องการเป็นราชาโจรสลัดและออกค้นหาสมบัติในตำนาน "วันพีซ"
+</p>
+</div>
+
+<div class="card">
+<h2>🌊 ภาค East Blue</h2>
+<p>
+จุดเริ่มต้นของการเดินทาง ลูฟี่รวบรวมลูกเรือ ได้แก่ โซโล นามิ อุซป และซันจิ
+ก่อนเข้าสู่แกรนด์ไลน์
+</p>
+</div>
+
+<div class="card">
+<h2>🏜 ภาค Alabasta</h2>
+<p>
+ช่วยเจ้าหญิงวีวี่ปกป้องอาณาจักรอลาบาสตา
+และต่อสู้กับคร็อกโคไดล์
+</p>
+</div>
+
+<div class="card">
+<h2>☁ ภาค Skypiea</h2>
+<p>
+การผจญภัยบนเกาะลอยฟ้า
+ลูฟี่ต่อสู้กับเทพเอเนลผู้ใช้พลังสายฟ้า
+</p>
+</div>
+
+<div class="card">
+<h2>⚖ Water 7 & Enies Lobby</h2>
+<p>
+ช่วยโรบินจากรัฐบาลโลก
+และได้เรือ Thousand Sunny มาเป็นเรือประจำกลุ่ม
+</p>
+</div>
+
+<div class="card">
+<h2>⚔ Marineford</h2>
+<p>
+สงครามครั้งใหญ่ระหว่างกองทัพเรือกับหนวดขาว
+เพื่อช่วยเอส
+</p>
+</div>
+
+<div class="card">
+<h2>🐟 Fish-Man Island</h2>
+<p>
+หลังฝึกฝน 2 ปี
+กลุ่มหมวกฟางกลับมารวมตัวและเริ่มการเดินทางในโลกใหม่
+</p>
+</div>
+
+<div class="card">
+<h2>🎭 Dressrosa</h2>
+<p>
+ลูฟี่ต่อสู้กับโดฟลามิงโก
+เพื่อปลดปล่อยอาณาจักรเดรสโรซา
+</p>
+</div>
+
+<div class="card">
+<h2>🍰 Whole Cake Island</h2>
+<p>
+ช่วยซันจิจากบิ๊กมัม
+พร้อมการต่อสู้อันดุเดือดกับคาตาคุริ
+</p>
+</div>
+
+<div class="card">
+<h2>🐉 Wano</h2>
+<p>
+ลูฟี่ร่วมมือกับเหล่าซามูไร
+โค่นล้มจักรพรรดิไคโด
+และปลุกพลังเกียร์ 5
+</p>
+</div>
+
+<div class="card">
+<h2>🔬 Egghead</h2>
+<p>
+การผจญภัยบนเกาะของดร.เวก้าพังก์
+พร้อมการเปิดเผยความลับสำคัญของโลกวันพีซ
+</p>
+</div>
+
+</div>
+
+<footer>
+© 2026 One Piece Fan Blog
+</footer>
+
+</body>
+</html>onepiece-blog
